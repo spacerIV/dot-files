@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/victor/Downloads/hello_triangle_emscripten/build'
+let g:netrw_dirhist_2='/Users/victor/temp/htmlunit/build'
+let g:netrw_dirhist_3='/Users/victor/Documents/github/web_app/log'
